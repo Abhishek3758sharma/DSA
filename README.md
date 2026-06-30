@@ -11,6 +11,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Abhishek3758sharma/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Abhishek3758sharma/DSA/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/Abhishek3758sharma/DSA/tree/master/0213-house-robber-ii) |
+| [1340-jump-game-v](https://github.com/Abhishek3758sharma/DSA/tree/master/1340-jump-game-v) |
 ## Memoization
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/Abhishek3758sharma/DSA/tree/master/0213-house-robber-ii) |
+| [1340-jump-game-v](https://github.com/Abhishek3758sharma/DSA/tree/master/1340-jump-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhishek3758sharma/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhishek3758sharma/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhishek3758sharma/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -68,6 +70,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1340-jump-game-v](https://github.com/Abhishek3758sharma/DSA/tree/master/1340-jump-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhishek3758sharma/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
 |  |
