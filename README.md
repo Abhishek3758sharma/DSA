@@ -12,6 +12,7 @@
 | [0070-climbing-stairs](https://github.com/Abhishek3758sharma/DSA/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/Abhishek3758sharma/DSA/tree/master/0213-house-robber-ii) |
 | [1340-jump-game-v](https://github.com/Abhishek3758sharma/DSA/tree/master/1340-jump-game-v) |
+| [3620-network-recovery-pathways](https://github.com/Abhishek3758sharma/DSA/tree/master/3620-network-recovery-pathways) |
 ## Memoization
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhishek3758sharma/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhishek3758sharma/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhishek3758sharma/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Abhishek3758sharma/DSA/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhishek3758sharma/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhishek3758sharma/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Abhishek3758sharma/DSA/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -96,6 +99,7 @@
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhishek3758sharma/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhishek3758sharma/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Abhishek3758sharma/DSA/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -105,8 +109,14 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhishek3758sharma/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Abhishek3758sharma/DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhishek3758sharma/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Abhishek3758sharma/DSA/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Abhishek3758sharma/DSA/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
