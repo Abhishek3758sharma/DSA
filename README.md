@@ -25,6 +25,7 @@
 | ------- |
 | [0213-house-robber-ii](https://github.com/Abhishek3758sharma/DSA/tree/master/0213-house-robber-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhishek3758sharma/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/Abhishek3758sharma/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Abhishek3758sharma/DSA/tree/master/1340-jump-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhishek3758sharma/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhishek3758sharma/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -36,6 +37,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Abhishek3758sharma/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhishek3758sharma/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhishek3758sharma/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhishek3758sharma/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -82,6 +84,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Abhishek3758sharma/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Abhishek3758sharma/DSA/tree/master/1340-jump-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhishek3758sharma/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
