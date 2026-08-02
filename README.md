@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abhishek3758sharma/DSA/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/Abhishek3758sharma/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek3758sharma/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhishek3758sharma/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhishek3758sharma/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -15,6 +16,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Abhishek3758sharma/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Abhishek3758sharma/DSA/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/Abhishek3758sharma/DSA/tree/master/0213-house-robber-ii) |
+| [0877-stone-game](https://github.com/Abhishek3758sharma/DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhishek3758sharma/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/Abhishek3758sharma/DSA/tree/master/1340-jump-game-v) |
 | [3620-network-recovery-pathways](https://github.com/Abhishek3758sharma/DSA/tree/master/3620-network-recovery-pathways) |
@@ -26,6 +28,7 @@
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/Abhishek3758sharma/DSA/tree/master/0213-house-robber-ii) |
+| [0877-stone-game](https://github.com/Abhishek3758sharma/DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhishek3758sharma/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek3758sharma/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Abhishek3758sharma/DSA/tree/master/1340-jump-game-v) |
@@ -159,4 +162,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishek3758sharma/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Abhishek3758sharma/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
